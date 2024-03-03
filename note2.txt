@@ -2,3 +2,12 @@ git is a verson control system that helps to track changes in codes
 used : 
 to track the code history 
 to collaborate in group project 
+
+Add file now : 
+-git status :- what change we do in the program after we make repo 
+-git add .
+-git commit -m "message about the what the program do"
+-git push 
+
+
+
