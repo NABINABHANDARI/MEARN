@@ -1,0 +1,10 @@
+For icon when need use font ashome 
+
+<!-- link : connect index.html with index.css -->
+    <link rel="stylesheet" href="./index.css">
+<div> : tag defines a division or a section in an HTML document. 
+remove bg : website to remove picture background
+class : used to point to a class in a style sheet 
+        point out in css   
+display flex (css) : used to keep anything in same line
+
