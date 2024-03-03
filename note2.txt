@@ -1,0 +1,4 @@
+git is a verson control system that helps to track changes in codes 
+used : 
+to track the code history 
+to collaborate in group project 
