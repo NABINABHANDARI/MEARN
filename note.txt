@@ -7,4 +7,3 @@ remove bg : website to remove picture background
 class : used to point to a class in a style sheet 
         point out in css   
 display flex (css) : used to keep anything in same line
-
